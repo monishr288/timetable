@@ -108,4 +108,4 @@ Execute the program
 </html>
 ```
 # OUtPUT
-![Output](output.png)
+![Output](./output.png)
